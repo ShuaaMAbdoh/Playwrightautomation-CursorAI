@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ShuaaMAbdoh/Playwrightautomation-CursorAI#readme",
   "devDependencies": {
-    "@playwright/test": "^1.59.1"
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
   }
 }
